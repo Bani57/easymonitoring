@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.endava.easymonitoring.EasymonitoringApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.662 sec - in com.endava.easymonitoring.EasymonitoringApplicationTests

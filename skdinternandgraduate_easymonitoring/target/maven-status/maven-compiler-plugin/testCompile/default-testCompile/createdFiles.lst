@@ -1,0 +1,4 @@
+com\endava\easymonitoring\EasymonitoringApplicationTests.class
+com\endava\easymonitoring\controller\TestLoginController.class
+com\endava\easymonitoring\controller\TestScreenController.class
+com\endava\easymonitoring\controller\TestStatusController.class
